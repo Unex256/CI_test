@@ -7,4 +7,5 @@ public class Main {
     int z = x + y;
     int r = x + y;
     int c = x + y*2;
+    int u = x + y*2;
 }
