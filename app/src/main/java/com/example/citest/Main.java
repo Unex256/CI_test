@@ -6,5 +6,5 @@ public class Main {
     int y = 2;
     int z = x + y;
     int r = x + y;
-    int c = x + y;
+    int c = x + y*2;
 }
